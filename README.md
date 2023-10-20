@@ -1,6 +1,6 @@
 # Superstore Sales Dashboard with Power BI
 
-![Superstore Sales Dashboard](https://github.com/Rajeev-Mishraa/Superstore_Sales_Dashboard_Project/blob/main/Superstore_Sales_Dashboard.png)
+<img src='https://github.com/Rajeev-Mishraa/Superstore_Sales_Dashboard_Project/blob/main/Superstore_Sales_Dashboard.png' alt="Alt Text" style="height: 390px; width: 1100px;">
 
 Welcome to my  Superstore Sales Dashboard project! This Power BI project is an in-depth exploration of sales data for a fictional superstore. It demonstrates the use of data analysis techniques, with a focus on time series analysis, to deliver valuable insights, precise sales forecasting, and the creation of interactive dashboards that can drive business success.
 
